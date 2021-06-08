@@ -14,4 +14,4 @@ Step 4: Hold Z and drag down to the material preview.
 **Note:** Use Middle Mouse Button to rotate, press the hand icon in the right corner of the scene to move.
 ![image](https://user-images.githubusercontent.com/84187238/121041528-0aedf980-c7dd-11eb-8798-642f830c56df.png)
 
-Step 5:
+## Basic Render
