@@ -15,3 +15,4 @@ Step 4: Hold Z and drag down to the material preview.
 ![image](https://user-images.githubusercontent.com/84187238/121041528-0aedf980-c7dd-11eb-8798-642f830c56df.png)
 
 ## Basic Render
+**Note:** This is the basic one, which means it looks nothing special. You can skip this part if you're looking for a higher quality one.
